@@ -1,0 +1,65 @@
+.header {
+    border: 3px darkorange solid;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.main {
+    border: 5px navy solid;
+}
+
+.b1, .b4 {
+    border: 2px greenyellow solid;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+
+.b2, .b3 {
+    border: 2px rebeccapurple solid;
+    font-size: 20px;
+}
+
+.b2, .b4 {
+    width: 700px;
+    height: 120px;
+    padding: 5px;
+    margin: 20px;
+    float: right;
+    display: inline-block;
+}
+
+.b1 {
+    text-align: center;
+}
+
+.b2 {
+    text-align: left;
+}
+
+.b3 {
+    text-align: right;
+}
+
+.b4 {
+    text-align: justify;
+}
+
+.b1, .b3 {
+    width: 600px;
+    height: 130px;
+    padding: 8px;
+    margin: 15px;
+    display: inline-block;
+}
+
+.footer {
+    border: 3px magenta solid;
+    margin-top: 10px;
+}
+
+span {
+    color: teal;
+    font-size: 20px;
+    border: 1px khaki solid;
+    margin: 3px;
+}
